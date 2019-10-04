@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+body {
+	background-size: cover;
+	background-color: #FF5E4D;
+}
+a{
+	color:#FF5E4D;
+}
+ul{
+	margin:auto;
+}
+.active{
+    color: orange;
+}
+li{
+
+	background-color: #6D071A;
+	text-align: justify;
+}
